@@ -54,4 +54,4 @@ https://pixabay.com/sound-effects/sound-of-flying-drone-02-166962/
 Fonts:
 Oxanium (Designer: Severin Meyer)
 https://fonts.google.com/specimen/Oxanium/about
-License text included as a separate text file in this project.
+License text included as a separate text file in this project in the project folders of the release.
