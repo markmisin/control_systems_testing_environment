@@ -1,3 +1,5 @@
 # control_systems_testing_environment
-DOWNLOAD THE ZIP FILE IN GITHUB RELEASES! ALL THE FILES ARE THERE!
-
+Welcome!
+In this project, you can test your controllers in real-time.
+Download the zip file in Github Releases.
+You will find instructions and documentation there.
