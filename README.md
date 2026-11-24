@@ -1,4 +1,3 @@
-"""
 Control Systems Testing Environment - Real-Time UAV Tracking (Godot + Linux/Python)
 Copyright (c) Mark Misin
 
@@ -12,4 +11,3 @@ for any damages, hardware failures, or project issues arising from its use.
 
 The project is based on Applied Control Systems courses:
 https://linktr.ee/markmisinengineering
-"""
