@@ -9,5 +9,10 @@ Licensed under the MIT License.
 Provided "AS IS", without warranty of any kind. The author is not responsible
 for any damages, hardware failures, or project issues arising from its use.
 
+Third-Party Assets: While the Python source code files and the Godot simulation
+project files/executables created by the author in this repository are licensed
+under the MIT License, bundled third-party assets remain governed by their
+respective licenses.
+
 The project is based on Applied Control Systems courses:
 https://linktr.ee/markmisinengineering
